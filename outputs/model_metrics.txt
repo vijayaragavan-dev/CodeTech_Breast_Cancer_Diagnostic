@@ -1,0 +1,37 @@
+=======================================================
+  BREAST CANCER DIAGNOSTIC SYSTEM
+  MODEL EVALUATION METRICS
+=======================================================
+
+Algorithm: Logistic Regression
+Training samples: 455
+Testing samples:  114
+Test size:        20%
+
+-------------------------------------------------------
+  PERFORMANCE METRICS
+-------------------------------------------------------
+  Accuracy  : 0.9825  (98.25%)
+  Precision : 0.9861  (98.61%)
+  Recall    : 0.9861  (98.61%)
+  F1 Score  : 0.9861  (98.61%)
+
+-------------------------------------------------------
+  CONFUSION MATRIX
+-------------------------------------------------------
+                  Predicted
+                  Malignant  Benign
+  Actual Malignant    41         1
+         Benign        1        71
+
+-------------------------------------------------------
+  CLASSIFICATION REPORT
+-------------------------------------------------------
+              precision    recall  f1-score   support
+
+   malignant       0.98      0.98      0.98        42
+      benign       0.99      0.99      0.99        72
+
+    accuracy                           0.98       114
+   macro avg       0.98      0.98      0.98       114
+weighted avg       0.98      0.98      0.98       114

@@ -1,0 +1,39 @@
+BREAST CANCER WISCONSIN DATASET - INFORMATION
+==================================================
+Source: Scikit-Learn (load_breast_cancer)
+Original Source: UCI Machine Learning Repository
+Total Samples: 569
+Total Features: 30
+Target Classes: 0 = malignant, 1 = benign
+
+Feature Names:
+   1. mean radius
+   2. mean texture
+   3. mean perimeter
+   4. mean area
+   5. mean smoothness
+   6. mean compactness
+   7. mean concavity
+   8. mean concave points
+   9. mean symmetry
+  10. mean fractal dimension
+  11. radius error
+  12. texture error
+  13. perimeter error
+  14. area error
+  15. smoothness error
+  16. compactness error
+  17. concavity error
+  18. concave points error
+  19. symmetry error
+  20. fractal dimension error
+  21. worst radius
+  22. worst texture
+  23. worst perimeter
+  24. worst area
+  25. worst smoothness
+  26. worst compactness
+  27. worst concavity
+  28. worst concave points
+  29. worst symmetry
+  30. worst fractal dimension
